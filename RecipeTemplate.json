@@ -1,0 +1,84 @@
+[
+   {
+      "recipeName": "Телешко с грах",
+      "tagSet": {
+         "mealType": "основно",
+         "meat": "месо",
+         "ingredientKeys": [
+            "телешко",
+            "грах"
+         ]
+      },
+      "nutritionSet": {
+         "proteins": 55,
+         "fats": 33,
+         "carbohydrates": 79,
+         "calories": 640
+      },
+      "portionWeight": 580,
+      "ingredientList": [
+         {
+            "name": "свинско",
+            "quantity": 250,
+            "unit": "грама"
+         },
+         {
+            "name": "картофи",
+            "quantity": 700,
+            "unit": "грама"
+         },
+         {
+            "name": "моркови",
+            "quantity": 200,
+            "unit": "грама"
+         },
+         {
+            "name": "кромид",
+            "quantity": 150,
+            "unit": "грама"
+         }
+      ],
+      "pictureURL": "testfile.jpg"
+   },
+   {
+      "recipeName": "Свинско с картофи",
+      "tagSet": {
+         "mealType": "основно",
+         "meat": "месо",
+         "ingredientKeys": [
+            "свинско",
+            "картофи"
+         ]
+      },
+      "nutritionSet": {
+         "proteins": 55,
+         "fats": 67,
+         "carbohydrates": 49,
+         "calories": 620
+      },
+      "portionWeight": 580,
+      "ingredientList": [
+         {
+            "name": "свинско",
+            "quantity": 250,
+            "unit": "грама"
+         },
+         {
+            "name": "картофи",
+            "quantity": 700,
+            "unit": "грама"
+         },
+         {
+            "name": "моркови",
+            "quantity": 200,
+            "unit": "грама"
+         },
+         {
+            "name": "кромид",
+            "quantity": 150,
+            "unit": "грама"
+         }
+      ],
+      "pictureURL": "testfile2.jpg"
+   }
+]
