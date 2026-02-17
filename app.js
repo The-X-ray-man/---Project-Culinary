@@ -28,13 +28,14 @@ class NutritionSet{
 }
 
 class RecipeEntry{
-    constructor(recipeName, tagSet, nutritionSet, portionWeight, ingredientList, pictureURL){
+    constructor(recipeName, tagSet, nutritionSet, portionWeight, ingredientList, pictureURL, preparationSteps){
         this.recipeName = recipeName;
+        this.pictureURL = pictureURL;
         this.tagSet = tagSet;
         this.nutritionSet = nutritionSet;
         this.portionWeight = portionWeight;
         this.ingredientList = ingredientList;
-        this.pictureURL = pictureURL;
+        this.preparationSteps = preparationSteps;
     }
 }
 
