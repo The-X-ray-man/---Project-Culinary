@@ -1,7 +1,4 @@
 window.addEventListener("load", solve);
-const meatSelector = document.querySelector('#with-meat');
-meatSelector.addEventListener('change', meatSelectHandler);
-
 // class IngredientEntry{
 //     constructor(name, quantity, unit){
 //         this.name = name;
